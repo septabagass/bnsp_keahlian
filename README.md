@@ -101,7 +101,7 @@ Dashboard dikembangkan menggunakan Power BI untuk memvisualisasikan:
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard][(dashboard/dashboard.png)](https://github.com/septabagass/bnsp_keahlian/blob/main/Visualisasi%20BNSP%20Data%20Analyst.pdf)
 
 ---
 

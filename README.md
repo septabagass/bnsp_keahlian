@@ -187,7 +187,7 @@ Meskipun Electric Kettle menjadi produk unggulan, produk lainnya juga memberikan
 Mahasiswa Pendidikan Teknik Elektronika  
 Universitas Negeri Yogyakarta
 
-- LinkedIn: [www.linkedin.com/in/septa-bagas-setyawan](https://www.linkedin.com/in/septabagass/)
+- LinkedIn: [www.linkedin.com/in/septabagass](https://www.linkedin.com/in/septabagass/)
 
 ---
 
